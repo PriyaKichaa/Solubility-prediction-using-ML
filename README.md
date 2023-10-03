@@ -32,7 +32,18 @@ This project focuses on using four existing ML Algorithms: Random Forests, Light
 
 ## Data used
 
-data/Lovric2020.csv | Dataset of 829 chemical compounds - SMILES, logS0 value.
+Drug-like components are selected initially and curated based on the following criteria:
+
+      -  logP55 value, Range: n [-3.6, 7.5]
+      
+      -  Molecular Weight > 88 g/mol
+      
+      -  Heavy Atom Count > 6
+      
+829 compounds were collected in total.
+
+
+data/Lovric2020.csv | Chemical Dataset - SMILES, logS0 value.
 
 data/descriptors.csv | Descriptors file
 

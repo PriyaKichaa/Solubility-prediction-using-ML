@@ -11,14 +11,14 @@ https://doi.org/10.1002/cem.3349
 The Project work is in a single .ipynb file "Prediction of intrinsic aqueous solubility of drug-like compounds.ipynb".
 
  
-├── data                 # Data for modeling obtained from the paper
+├── data                  # Data for modeling obtained from the paper
 
-├── results              # Results obtained 
+├── results               # Results obtained 
 
-├── experiment           # Code experiment done
+├── experiment            # Code experiment done
 
 ├── LICENSE
 
-└── README.md            # Brief description about Repo
+└── README.md             # Brief description about Repo
 
 

@@ -12,9 +12,13 @@ The Project work is in a single .ipynb file "Prediction of intrinsic aqueous sol
 
  
 ├── data                  # Data for modeling obtained from the paper
+
 ├── results               # Results obtained 
+
 ├── experiment            # Code experiment done
+
 ├── LICENSE
+
 └── README.md             # Brief description about Repo
 
 

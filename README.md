@@ -9,6 +9,7 @@ https://doi.org/10.1002/cem.3349
 # Project Structure
 
 The Project work is in a single .ipynb file "Prediction of intrinsic aqueous solubility of drug-like compounds.ipynb".
+
 .
 ├── data                 # Data for modeling obtained from the paper
 ├── results              # Results obtained 

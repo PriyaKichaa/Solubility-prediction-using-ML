@@ -30,4 +30,10 @@ Various research groups have attempted solubility prediction, with performance m
 
 This project focuses on using four existing ML Algorithms: Random Forests, LightGBM, LASSO, and Partial Least Square, and predicts the models' accuracy.
 
-## 
+## Data used
+
+/data consists of data used in the experiment
+
+data/descriptors.csv | Descriptors file
+data/fingerprints.csv | Fingerprints file
+data/solubility_data.csv | Predictive target and data splits (random, picking, pca split)

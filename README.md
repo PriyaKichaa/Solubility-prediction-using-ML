@@ -32,7 +32,7 @@ This project focuses on using four existing ML Algorithms: Random Forests, Light
 
 ## Data used
 
-/data consists of data used in the experiment
+data/Lovric2020.csv | Dataset of 829 chemical compounds - SMILES, logS0 value.
 
 data/descriptors.csv | Descriptors file
 

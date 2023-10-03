@@ -26,7 +26,7 @@ The Project work is in a single .ipynb file "Prediction of intrinsic aqueous sol
 
 Solubility is a critical factor in pharmaceutical development, affecting drug absorption and leading to a high attrition rate in drug development due to poor water solubility. Predictive models like quantitative structure-property relationships (QSPRs) are useful tools for solubility determination in early development. The scientific community has engaged in solubility challenges to improve predictive capabilities from structural information. Data availability remains a challenge, with proprietary data potentially confirming limitations in modeling capabilities.
 
-Various research groups have attempted solubility prediction, with performance metrics varying across studies. Recent studies, with carefully curated data, have shown better results using machine learning algorithms like random forests (RF), and LightGBM. 
+Various research groups have attempted solubility prediction, with performance metrics varying across studies. Recent studies with carefully curated data have shown better results using machine learning algorithms like random forests (RF), and LightGBM. 
 
 This project focuses on using four existing ML Algorithms: Random Forests, LightGBM, LASSO, and Partial Least Square, and predicts the models' accuracy.
 
@@ -35,5 +35,7 @@ This project focuses on using four existing ML Algorithms: Random Forests, Light
 /data consists of data used in the experiment
 
 data/descriptors.csv | Descriptors file
+
 data/fingerprints.csv | Fingerprints file
-data/solubility_data.csv | Predictive target and data splits (random, picking, pca split)
+
+data/solubility_data.csv | Predictive target and data splits (random, picking, PCA split)

@@ -2,8 +2,11 @@
 
 This project is purely done out of self-interest based on the paper 
 "Machine learning in the prediction of intrinsic aqueous solubility of drug-like compounds: Generalization, complexity, or predictive ability?" 
-published in the Journal of Chemometrics:  
-https://doi.org/10.1002/cem.3349
+published in the Journal of Chemometrics:  https://doi.org/10.1002/cem.3349
+
+The data used and obtained with each process is stored at https://drive.google.com/drive/folders/1SlqpJH9AoxVeRcJJToOD5FuJ6zV91zNA?usp=sharing
+
+Platform Used: Google Colab
 
 
 # Project Structure
@@ -50,3 +53,4 @@ data/descriptors.csv | Descriptors file
 data/fingerprints.csv | Fingerprints file
 
 data/solubility_data.csv | Predictive target and data splits (random, picking, PCA split)
+
